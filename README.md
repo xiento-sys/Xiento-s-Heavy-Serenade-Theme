@@ -1,2 +1,231 @@
-# Xiento-s-Heavy-Serenade-Theme
-This is a 2-in-1 theme pack, inspired by NMIXX's Heavy Serenade. You can choose exactly which theme/s you want to install. 
+# NMIXX - Heavy Serenade Custom Echo MINI Theme
+
+<table>
+<tr>
+<td width="30%">
+  
+<img width="640" height="340" alt="BOOTANIM" src="https://github.com/user-attachments/assets/c8ec1c71-cffb-4b18-9faa-f408fefd408f">
+
+</td>
+
+<td width="25%" valign="top">
+
+## Overview
+Introducing my first custom theme, inspired by NMIXX's Heavy Serenade. This is a complete overhaul of the UI, featuring 310 fully redesigned bitmaps for each interface style, alongside universal assets for a total of 687 pixel-perfectly modified bitmaps.
+
+Theme Options:
+01. Heavy Serenade (Heavy Ver.) uses Elegant White - WIP
+02. Heavy Serenade (Serenade Ver.) uses Midnight Black - mostly done
+03. Heavy Serenade (Crescendo) uses Cherry Blossom - (on hold until I am fully satisfied with the first 2 themes)
+
+Just like the physical albums, the Heavy Ver. is the light mode version and the Serenade Ver. is the dark mode version. Crescendo is unique and is based off of the album cover art's purple-pink aesthetic.
+
+Listen to Heavy Serenade here: https://youtu.be/6Ycn9qZK09I?si=nr_KyhSpRZ1pEdM9
+
+</td>
+</tr>
+</table>
+
+---
+
+## Installation
+1. Download v3.5.0 or newer from FiiO's official forum: https://forum.fiio.com/note/showNoteContent.do?id=202501210934383987154.
+2. Use either FlameOcean: https://flame-ocean.not.ci/ or OceanFlame: https://ocean-flame-nu.vercel.app/ to open the .img file.
+3. Drag the contents of the "0. Universals" Folder to the website to upload the images.
+4. Choose which theme/s you want to use and drag its contents to the website.
+5. Save the firmware .img file and install it on your Echo Mini.
+
+---
+
+## Custom Theme Showcase
+
+<table>
+<tr>
+<td>
+
+#### Boot Animation
+
+<img width="480" height="255" alt="BOOTANIM" src="https://github.com/user-attachments/assets/399deb3d-c643-4a84-a0d8-2fe53e957f0a">
+
+</td>
+
+<td>
+
+#### Main Menu Screen
+
+<img width="480" height="255" alt="MAINMENU" src="https://github.com/user-attachments/assets/470900f5-ab2c-485d-b14a-43d35d957c71">
+
+</tr>
+</td>
+
+<tr>
+<td>
+  
+#### Music Player | Album Art: Disabled
+
+<img width="480" height="255" alt="MUSICPLAYER" src="https://github.com/user-attachments/assets/741d7ee7-1932-4f26-a941-95620078d1b1">
+
+</td>
+
+<td>
+
+#### Music Player | Album Art: Enabled
+<img width="480" height="255" alt="ALBUMART" src="https://github.com/user-attachments/assets/f947dd70-403c-4a83-8384-1c5c4d12276f">
+
+</tr>
+</td>
+
+<tr>
+<td>
+
+#### File Transfer Mode
+
+<img width="479" height="254" alt="USBCONNECTED" src="https://github.com/user-attachments/assets/26ebbc26-6d6e-4462-ac38-9f8857a4ecbc" />
+
+</td>
+
+<td>
+
+#### USB DAC Mode
+
+<img width="479" height="254" alt="DACMODE" src="https://github.com/user-attachments/assets/9efc952b-7344-4e47-a669-7c364dbf3b7f" />
+
+</tr>
+</td>
+
+<tr>
+<td>
+
+#### Charging Animation
+
+<img width="479" height="254" alt="CHARGINGANIM" src="https://github.com/user-attachments/assets/2eda05f9-fa85-4055-a1a3-0ab869bd9316">
+
+</td>
+
+<td>
+  
+#### Volume
+
+<img wwidth="479" height="254" alt="VOLUME" src="https://github.com/user-attachments/assets/f2af9ec0-541b-48aa-895f-903a11fdae40">
+
+</tr>
+</td>
+
+</table>
+
+---
+
+## Improved Setting Menu Clarity
+Settings icons are also updated. There's too many of them to showcase individually.
+
+<table>
+<tr>
+<td>
+
+#### Button Swapping Menu
+  
+<img width="479" height="254" alt="BUTTONSWAPPING" src="https://github.com/user-attachments/assets/66c0e592-319c-4391-81ec-8811c2e025ef">
+
+</td>
+
+<td>
+
+#### Button Switching Menu
+
+<img width="479" height="254" alt="BUTTONSWITCHING" src="https://github.com/user-attachments/assets/3e2f9d02-e339-467b-a3f6-1d8101867c29">
+
+</tr>
+</td>
+
+<tr>
+<td>
+
+#### Channel Balance Menu
+
+<img width="479" height="254" alt="CHANNELBALANCE" src="https://github.com/user-attachments/assets/e5634ffd-faf4-4c3a-9869-05c8661e0e45">
+
+</td>
+
+<td>
+
+#### Equalizer Interface
+
+<img width="479" height="254" alt="EQUALIZER" src="https://github.com/user-attachments/assets/db5ec182-8bba-4a7a-b3cc-ee9e81c0560c">
+
+</tr>
+</td>
+
+
+</table>
+
+---
+
+## Digital Clock Display
+
+<img width="960" height="500" alt="CLOCK" src="https://github.com/user-attachments/assets/5e0191fa-af8a-40e7-94a9-4f6dd1874ca9" />
+
+Got the Screensaver Clock option enabled? This theme replaces the default layout with a Red LED Digital Clock, bringing a retro bedside-alarm vibe right to your Echo Mini!
+
+---
+
+## Fully Customizable Theme
+You can freely customize this theme as you wish. There are three main customizables:
+
+### Recorder Style
+v1 - more elements, full length
+
+<img width="320" height="60" alt="v1 Demonstration" src="https://github.com/user-attachments/assets/7af87a1e-199c-4e16-a9e4-517b8952838e">
+
+  
+v2 - less elements, full length
+
+<img width="320" height="60" alt="v2 Demonstration" src="https://github.com/user-attachments/assets/62366961-35cd-451d-992c-c38a43d49421">
+
+
+v3 - more elements, half length
+
+<img width="320" height="60" alt="v3 Demonstration" src="https://github.com/user-attachments/assets/0c12fd09-d989-4350-acdf-7ff1b0d44d65">
+
+
+v4 - less elements, half length
+
+<img width="320" height="60" alt="v4 Demonstration" src="https://github.com/user-attachments/assets/65775f58-d8f8-4460-a41b-ff5b3abd8a1f">
+
+Full length is faster but stuttery, half length is slower but smoother. 
+
+By default, v2 is the recorder style. The folders for each version contain bitmaps for the Main Menu Screen, Volume Screen, DAC Mode Encoding Interface, and of course, the Music Player | Album Art Disabled itself.
+
+### Quality Icons
+
+<img width="320" height="130" alt="QUALITYICONS" src="https://github.com/user-attachments/assets/6792fa95-1d2b-43bf-8b59-b30348ae1f62">
+
+Listening to music in MP3, AAC, and OGG? ~~like me~~ Don't worry, you won't miss out on Quality Icons!
+
+After following the attached instructions, the chosen icon will take effect when you use audio files that are <ins>less than</ins> 16/44.1 FLAC in quality. 
+- _You can only choose one between MP3, AAC, OGG, and even the higher quality indicators._
+- _This does not detect whether or not you're using MP3, AAC, or OGG._
+
+### TF Card Icons
+
+<img width="320" height="65" alt="SDCARDICONS" src="https://github.com/user-attachments/assets/6e4ec727-5835-4f3e-a36f-5c5cbbec9584">
+
+Looking for even more customization? Use these TF Card Icons! These will show up on the top right of your display, in between the Equalizer Setting and the Battery Indicator.
+
+---
+
+## Final Remarks
+
+### About Heavy Serenade (Heavy Ver.) - Light Mode / Elegant White
+
+The reason I didn't post a showcase for this theme is that it's currently just a quick recolor of the Dark Mode theme. I don't personally use Light Mode, but once the Dark Mode layout is finalized, I'll revisit this to make changes that ~might just convert me to the light~ would make me and regular Light Mode users feel right at home. 
+
+It still exists. It is still included in the initial release. It is just something that is not worth adertising yet.
+
+### Change of Plans
+Originally, I planned to make this a 5-in-1 theme pack matching different NMIXX eras. Unfortunately, both the Sky Blue and Retro Gold firmware files have questionable naming errors when extracted via FlameOcean and OceanFlame, so I decided to drop that idea. Additionally, some of their firmware files are mixed up with each other.
+
+While building a theme for Retro Gold might still be technically possible since it does have a complete set of 310 bitmap files, it's highly uncertain whether or not those are even the correct 310 files due to the mix-up. As for Sky Blue, it is out of my interest to make a custom theme because it is missing a bitmap/frame for the DAC mode animation, which ruins continuity whenever you use it as a USB DAC. Either it only uses 4 frames for the USB DAC Animation or both FlameOcean and OceanFlame can't read it.
+
+Honestly, this works better in my opinion. Instead of using a generic NMIXX boot screen, the player will now have a dedicated Heavy Serenade aesthetic right from the moment it powers on.
+
+---
