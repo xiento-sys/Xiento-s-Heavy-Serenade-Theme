@@ -4,7 +4,7 @@
 <tr>
 <td width="30%">
   
-<img width="640" height="340" alt="BOOTANIM" src="https://github.com/user-attachments/assets/c8ec1c71-cffb-4b18-9faa-f408fefd408f">
+<img width="640" height="340" alt="BOOTANIM" src="https://github.com/user-attachments/assets/36ba357e-4d57-48ac-a3ef-feb8e4cad36d">
 
 </td>
 
@@ -45,7 +45,7 @@ Listen to Heavy Serenade here: https://youtu.be/6Ycn9qZK09I?si=nr_KyhSpRZ1pEdM9
 
 #### Boot Animation
 
-<img width="480" height="255" alt="BOOTANIM" src="https://github.com/user-attachments/assets/399deb3d-c643-4a84-a0d8-2fe53e957f0a">
+<img width="480" height="255" alt="BOOTANIM" src="https://github.com/user-attachments/assets/36ba357e-4d57-48ac-a3ef-feb8e4cad36d">
 
 </td>
 
@@ -162,9 +162,28 @@ Settings icons are also updated. There's too many of them to showcase individual
 
 ## Digital Clock Display
 
-<img width="960" height="500" alt="CLOCK" src="https://github.com/user-attachments/assets/5e0191fa-af8a-40e7-94a9-4f6dd1874ca9" />
+<img width="960" height="500" alt="CLOCK" src="https://github.com/user-attachments/assets/5e0191fa-af8a-40e7-94a9-4f6dd1874ca9">
 
 Got the Screensaver Clock option enabled? This theme replaces the default layout with a Red LED Digital Clock, bringing a retro bedside-alarm vibe right to your Echo Mini!
+
+---
+
+## Light Mode Comparison
+Light Mode is finally in a usable state. I'm not experienced with working on Light Mode themes so there's more room for improvement. I'm open to any suggestions to further improve the Light Mode theme.
+
+### Main Menu Screen & Music Player
+<img width="320" height="340" alt="MAINMENU" src="https://github.com/user-attachments/assets/6dd99452-dd75-46e2-9175-1d7a08d98ce5">
+<img width="320" height="340" alt="MUSICPLAYERA" src="https://github.com/user-attachments/assets/c886028f-28ba-4396-8bdd-12a5265636af">
+<img width="320" height="340" alt="MUSICPLAYERB" src="https://github.com/user-attachments/assets/f23f91c4-2d34-419c-903e-6475b96879bc">
+
+Since this was added after the initial release, there has been a lot of centering fixes and element changes that are not present in any other section of this showcase. ~im too lazy to update every gif~
+
+Here are photos of both of them in use:
+
+<img width="479" height="254" alt="SAMPLEDARK" src="https://github.com/user-attachments/assets/e4148c35-52cc-407b-aef6-6f8b7327c71b">
+<img width="479" height="254" alt="SAMPLELIGHT" src="https://github.com/user-attachments/assets/6c132a12-f559-4383-9ccc-468f93f8153b">
+
+really bad photos I know.
 
 ---
 
@@ -175,25 +194,37 @@ You can freely customize this theme as you wish. There are three main customizab
 v1 - more elements, full length
 
 <img width="320" height="60" alt="v1 Demonstration" src="https://github.com/user-attachments/assets/7af87a1e-199c-4e16-a9e4-517b8952838e">
+<img width="320" height="60" alt="v1 Demonstration" src="https://github.com/user-attachments/assets/010ec7db-a7f3-42fd-8df7-9cbae8ecc0c1">
 
   
 v2 - less elements, full length
 
 <img width="320" height="60" alt="v2 Demonstration" src="https://github.com/user-attachments/assets/62366961-35cd-451d-992c-c38a43d49421">
+<img width="320" height="60" alt="v2 Demonstration" src="https://github.com/user-attachments/assets/8861a1be-a817-4cf7-99b1-bb60012ca8e6">
 
 
 v3 - more elements, half length
 
 <img width="320" height="60" alt="v3 Demonstration" src="https://github.com/user-attachments/assets/0c12fd09-d989-4350-acdf-7ff1b0d44d65">
+<img width="320" height="60" alt="v3 Demonstration" src="https://github.com/user-attachments/assets/27ef93bd-d058-4e6a-b3c5-b1e7937b9fe3" />
 
 
 v4 - less elements, half length
 
 <img width="320" height="60" alt="v4 Demonstration" src="https://github.com/user-attachments/assets/65775f58-d8f8-4460-a41b-ff5b3abd8a1f">
+<img width="320" height="60" alt="v4 Demonstration" src="https://github.com/user-attachments/assets/497a10d2-9460-497c-9758-3c4817e54db1" />
+
 
 Full length is faster but stuttery, half length is slower but smoother. 
 
 By default, v2 is the recorder style. The folders for each version contain bitmaps for the Main Menu Screen, Volume Screen, DAC Mode Encoding Interface, and of course, the Music Player | Album Art Disabled itself.
+
+### Battery Indicator Style
+
+<img width="220" height="70" alt="BATTERYINDICATORA" src="https://github.com/user-attachments/assets/d51133b3-ce6a-4f2d-9aca-0b7519634d7e" />
+<img width="220" height="70" alt="BATTERYINDICATORB" src="https://github.com/user-attachments/assets/9ec6fb2b-b97c-4193-a924-9449caaf6195" />
+
+You can choose between the Legacy (Bars) style or the Modern style for the Battery Indicator.
 
 ### Quality Icons
 
@@ -214,12 +245,6 @@ Looking for even more customization? Use these TF Card Icons! These will show up
 ---
 
 ## Final Remarks
-
-### About Heavy Serenade (Heavy Ver.) - Light Mode / Elegant White
-
-The reason I didn't post a showcase for this theme is that it's currently just a quick recolor of the Dark Mode theme. I don't personally use Light Mode, but once the Dark Mode layout is finalized, I'll revisit this to make changes that ~might just convert me to the light~ would make me and regular Light Mode users feel right at home. 
-
-It still exists. It is still included in the initial release. It is just something that is not worth adertising yet.
 
 ### Change of Plans
 Originally, I planned to make this a 5-in-1 theme pack matching different NMIXX eras. Unfortunately, both the Sky Blue and Retro Gold firmware files have questionable naming errors when extracted via FlameOcean and OceanFlame, so I decided to drop that idea. Additionally, some of their firmware files are mixed up with each other.
