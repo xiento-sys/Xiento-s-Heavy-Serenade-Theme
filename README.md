@@ -14,13 +14,12 @@
 Introducing my first custom theme, inspired by NMIXX's Heavy Serenade. This is a complete overhaul of the UI, featuring 310 fully redesigned bitmaps for each interface style, alongside universal assets for a total of 687 pixel-perfectly modified bitmaps.
 
 Theme Options:
-01. Heavy Serenade (Heavy Ver.) uses Elegant White - WIP
-02. Heavy Serenade (Serenade Ver.) uses Midnight Black - mostly done
-03. Heavy Serenade (Crescendo) uses Cherry Blossom - (on hold until I am fully satisfied with the first 2 themes)
+01. Heavy Serenade (Heavy Ver.) uses Elegant White
+02. Heavy Serenade (Serenade Ver.) uses Midnight Black
 
-Just like the physical albums, the Heavy Ver. is the light mode version and the Serenade Ver. is the dark mode version. Crescendo is unique and is based off of the album cover art's purple-pink aesthetic.
+Just like the physical albums, the Heavy Ver. is the light mode version and the Serenade Ver. is the dark mode version.
 
-Listen to Heavy Serenade here: https://youtu.be/6Ycn9qZK09I?si=nr_KyhSpRZ1pEdM9
+Watch the Heavy Serenade M/V here: https://youtu.be/6Ycn9qZK09I?si=nr_KyhSpRZ1pEdM9
 
 </td>
 </tr>
@@ -247,7 +246,7 @@ Looking for even more customization? Use these TF Card Icons! These will show up
 ## Final Remarks
 
 ### Change of Plans
-Originally, I planned to make this a 5-in-1 theme pack matching different NMIXX eras. Unfortunately, both the Sky Blue and Retro Gold firmware files have questionable naming errors when extracted via FlameOcean and OceanFlame, so I decided to drop that idea. Additionally, some of their firmware files are mixed up with each other.
+Originally, I planned to make this a 5-in-1 theme pack matching different NMIXX eras. Unfortunately, both the Sky Blue and Retro Gold firmware files have questionable naming errors when extracted via FlameOcean and OceanFlame, so I decided to drop that idea. Additionally, some of their firmware files are mixed up with each other. While the Cherry Blossom is very much useable, I decided to drop that plan as I don't have the ability to bring my idea to reality. I may revisit the idea of adding a third theme to this pack in the future but that seems unlikely.
 
 While building a theme for Retro Gold might still be technically possible since it does have a complete set of 310 bitmap files, it's highly uncertain whether or not those are even the correct 310 files due to the mix-up. As for Sky Blue, it is out of my interest to make a custom theme because it is missing a bitmap/frame for the DAC mode animation, which ruins continuity whenever you use it as a USB DAC. Either it only uses 4 frames for the USB DAC Animation or both FlameOcean and OceanFlame can't read it.
 
