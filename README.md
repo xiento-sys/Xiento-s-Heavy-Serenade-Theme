@@ -103,7 +103,7 @@ Watch the Heavy Serenade M/V here: https://youtu.be/6Ycn9qZK09I?si=nr_KyhSpRZ1pE
 
 <td>
   
-#### Volume
+#### Volume Level
 
 <img wwidth="479" height="254" alt="VOLUME" src="https://github.com/user-attachments/assets/f2af9ec0-541b-48aa-895f-903a11fdae40">
 
@@ -114,9 +114,10 @@ Watch the Heavy Serenade M/V here: https://youtu.be/6Ycn9qZK09I?si=nr_KyhSpRZ1pE
 
 ---
 
-## Improved Setting Menu Clarity
-Settings icons are also updated. There's too many of them to showcase individually.
+## Improved Clarity for the Settings Menu and Indicator Icons
+Every single setting icon is updated. There's too many of them to showcase individually.
 
+### Settings Menu
 <table>
 <tr>
 <td>
@@ -154,8 +155,26 @@ Settings icons are also updated. There's too many of them to showcase individual
 </tr>
 </td>
 
-
 </table>
+
+### Main Indicator Changes
+
+#### Battery Indicator
+
+<img width="220" height="70" alt="BATTERYINDICATORA" src="https://github.com/user-attachments/assets/d51133b3-ce6a-4f2d-9aca-0b7519634d7e" />
+<img width="220" height="70" alt="BATTERYINDICATORB" src="https://github.com/user-attachments/assets/9ec6fb2b-b97c-4193-a924-9449caaf6195" />
+
+You can choose between the Legacy (Bars) style or the Modern style for the Battery Indicator.
+
+#### Media Sort Indicators
+<img width="440" alt="SORTICONS" src="https://github.com/user-attachments/assets/fc2b3266-8b16-4d2f-92c2-8b55e4277dcd">
+
+#### Equalizer Preset Indicators
+<img width="780" alt="EQUALIZERICONS" src="https://github.com/user-attachments/assets/de8059df-cb2e-4ba9-bb4a-9066250d1412">
+
+How it looks like in use:
+<img width="2404" height="223" alt="SAMPLEDARK" src="https://github.com/user-attachments/assets/269d84a8-abee-4ae9-945b-b1d7e69749b5" />
+The Volume Level and Track Number Indicator at the top left has also been changed.
 
 ---
 
@@ -171,16 +190,16 @@ Got the Screensaver Clock option enabled? This theme replaces the default layout
 Light Mode is finally in a usable state. I'm not experienced with working on Light Mode themes so there's more room for improvement. I'm open to any suggestions to further improve the Light Mode theme.
 
 ### Main Menu Screen & Music Player
-<img width="320" height="340" alt="MAINMENU" src="https://github.com/user-attachments/assets/6dd99452-dd75-46e2-9175-1d7a08d98ce5">
-<img width="320" height="340" alt="MUSICPLAYERA" src="https://github.com/user-attachments/assets/c886028f-28ba-4396-8bdd-12a5265636af">
-<img width="320" height="340" alt="MUSICPLAYERB" src="https://github.com/user-attachments/assets/f23f91c4-2d34-419c-903e-6475b96879bc">
+<img width="275" alt="MAINMENU" src="https://github.com/user-attachments/assets/6dd99452-dd75-46e2-9175-1d7a08d98ce5">
+<img width="275" alt="MUSICPLAYERA" src="https://github.com/user-attachments/assets/c886028f-28ba-4396-8bdd-12a5265636af">
+<img width="275" alt="MUSICPLAYERB" src="https://github.com/user-attachments/assets/f23f91c4-2d34-419c-903e-6475b96879bc">
 
 Since this was added after the initial release, there has been a lot of centering fixes and element changes that are not present in any other section of this showcase. ~im too lazy to update every gif~
 
 Here are photos of both of them in use:
 
-<img width="479" height="254" alt="SAMPLEDARK" src="https://github.com/user-attachments/assets/e4148c35-52cc-407b-aef6-6f8b7327c71b">
-<img width="479" height="254" alt="SAMPLELIGHT" src="https://github.com/user-attachments/assets/6c132a12-f559-4383-9ccc-468f93f8153b">
+<img width="412.5" alt="SAMPLEDARK" src="https://github.com/user-attachments/assets/e4148c35-52cc-407b-aef6-6f8b7327c71b">
+<img width="412.5" alt="SAMPLELIGHT" src="https://github.com/user-attachments/assets/6c132a12-f559-4383-9ccc-468f93f8153b">
 
 really bad photos I know.
 
@@ -217,13 +236,6 @@ v4 - less elements, half length
 Full length is faster but stuttery, half length is slower but smoother. 
 
 By default, v2 is the recorder style. The folders for each version contain bitmaps for the Main Menu Screen, Volume Screen, DAC Mode Encoding Interface, and of course, the Music Player | Album Art Disabled itself.
-
-### Battery Indicator Style
-
-<img width="220" height="70" alt="BATTERYINDICATORA" src="https://github.com/user-attachments/assets/d51133b3-ce6a-4f2d-9aca-0b7519634d7e" />
-<img width="220" height="70" alt="BATTERYINDICATORB" src="https://github.com/user-attachments/assets/9ec6fb2b-b97c-4193-a924-9449caaf6195" />
-
-You can choose between the Legacy (Bars) style or the Modern style for the Battery Indicator.
 
 ### Quality Icons
 
