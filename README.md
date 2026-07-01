@@ -198,10 +198,10 @@ Since this was added after the initial release, there has been a lot of centerin
 
 Here are photos of both of them in use:
 
-<img width="412.5" alt="SAMPLEDARK" src="https://github.com/user-attachments/assets/e4148c35-52cc-407b-aef6-6f8b7327c71b">
-<img width="412.5" alt="SAMPLELIGHT" src="https://github.com/user-attachments/assets/6c132a12-f559-4383-9ccc-468f93f8153b">
+<img width="412.5" alt="SAMPLEDARK" src="https://github.com/user-attachments/assets/faa9475b-cda9-47f7-a44d-379c863565df">
+<img width="412.5" alt="SAMPLELIGHT" src="https://github.com/user-attachments/assets/7499a14e-3943-4e06-8e4c-419b5097ce76">
 
-really bad photos I know.
+You can also see how the top bar looks like with different music settings.
 
 ---
 
@@ -211,26 +211,22 @@ You can freely customize this theme as you wish. There are three main customizab
 ### Recorder Style
 v1 - more elements, full length
 
-<img width="320" height="60" alt="v1 Demonstration" src="https://github.com/user-attachments/assets/7af87a1e-199c-4e16-a9e4-517b8952838e">
-<img width="320" height="60" alt="v1 Demonstration" src="https://github.com/user-attachments/assets/010ec7db-a7f3-42fd-8df7-9cbae8ecc0c1">
+<img width="320" height="60" alt="v1 Demonstration" src="https://github.com/user-attachments/assets/7af87a1e-199c-4e16-a9e4-517b8952838e"><img width="320" height="60" alt="v1 Demonstration" src="https://github.com/user-attachments/assets/010ec7db-a7f3-42fd-8df7-9cbae8ecc0c1">
 
   
 v2 - less elements, full length
 
-<img width="320" height="60" alt="v2 Demonstration" src="https://github.com/user-attachments/assets/62366961-35cd-451d-992c-c38a43d49421">
-<img width="320" height="60" alt="v2 Demonstration" src="https://github.com/user-attachments/assets/8861a1be-a817-4cf7-99b1-bb60012ca8e6">
+<img width="320" height="60" alt="v2 Demonstration" src="https://github.com/user-attachments/assets/62366961-35cd-451d-992c-c38a43d49421"><img width="320" height="60" alt="v2 Demonstration" src="https://github.com/user-attachments/assets/8861a1be-a817-4cf7-99b1-bb60012ca8e6">
 
 
 v3 - more elements, half length
 
-<img width="320" height="60" alt="v3 Demonstration" src="https://github.com/user-attachments/assets/0c12fd09-d989-4350-acdf-7ff1b0d44d65">
-<img width="320" height="60" alt="v3 Demonstration" src="https://github.com/user-attachments/assets/27ef93bd-d058-4e6a-b3c5-b1e7937b9fe3" />
+<img width="320" height="60" alt="v3 Demonstration" src="https://github.com/user-attachments/assets/0c12fd09-d989-4350-acdf-7ff1b0d44d65"><img width="320" height="60" alt="v3 Demonstration" src="https://github.com/user-attachments/assets/27ef93bd-d058-4e6a-b3c5-b1e7937b9fe3" />
 
 
 v4 - less elements, half length
 
-<img width="320" height="60" alt="v4 Demonstration" src="https://github.com/user-attachments/assets/65775f58-d8f8-4460-a41b-ff5b3abd8a1f">
-<img width="320" height="60" alt="v4 Demonstration" src="https://github.com/user-attachments/assets/497a10d2-9460-497c-9758-3c4817e54db1" />
+<img width="320" height="60" alt="v4 Demonstration" src="https://github.com/user-attachments/assets/65775f58-d8f8-4460-a41b-ff5b3abd8a1f"><img width="320" height="60" alt="v4 Demonstration" src="https://github.com/user-attachments/assets/497a10d2-9460-497c-9758-3c4817e54db1" />
 
 
 Full length is faster but stuttery, half length is slower but smoother. 
